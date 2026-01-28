@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "bindly",
-      "source": ".",
+      "source": "./",
       "description": "Persistent knowledge layer for Claude Code - finish your thoughts and make them reusable across sessions and agents",
       "version": "1.0.0",
       "author": {
