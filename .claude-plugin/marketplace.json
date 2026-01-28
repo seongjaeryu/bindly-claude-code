@@ -1,0 +1,27 @@
+{
+  "name": "bindly-claude-code",
+  "owner": {
+    "name": "Bindly Team",
+    "email": "support@bind.ly"
+  },
+  "metadata": {
+    "description": "Knowledge completion layer for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bindly",
+      "source": ".",
+      "description": "Persistent knowledge layer for Claude Code - finish your thoughts and make them reusable across sessions and agents",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bindly Team"
+      },
+      "homepage": "https://bind.ly",
+      "repository": "https://github.com/seongjaeryu/bindly-claude-code",
+      "license": "MIT",
+      "keywords": ["knowledge", "memory", "context", "mcp", "persistence"],
+      "category": "productivity"
+    }
+  ]
+}

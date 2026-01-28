@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bindly": {
+      "type": "http",
+      "url": "https://mcp.bind.ly/mcp"
+    }
+  }
+}

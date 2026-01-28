@@ -1,0 +1,21 @@
+{
+  "name": "bindly",
+  "description": "Knowledge completion layer for Claude Code - finish your thoughts and make them reusable across sessions and agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bindly Team",
+    "email": "support@bind.ly"
+  },
+  "homepage": "https://bind.ly",
+  "repository": "https://github.com/seongjaeryu/bindly-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "knowledge",
+    "memory",
+    "context",
+    "mcp",
+    "persistence",
+    "cross-agent"
+  ],
+  "category": "productivity"
+}
