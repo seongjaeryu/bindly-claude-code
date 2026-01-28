@@ -24,7 +24,7 @@ This registers the Bindly marketplace with Claude Code.
 ### Step 2: Install the Plugin
 
 ```bash
-/plugin install bindly@seongjaeryu-bindly-claude-code
+/plugin install bindly@bindly-claude-code
 ```
 
 This installs the Bindly plugin, which includes:

@@ -59,7 +59,7 @@ This means:
 ### 2. Install the Plugin
 
 ```bash
-/plugin install bindly@seongjaeryu-bindly-claude-code
+/plugin install bindly@bindly-claude-code
 ```
 
 ### 3. Authenticate
