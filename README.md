@@ -50,6 +50,21 @@ This means:
 
 ## Quick Start
 
+### Option A: Direct MCP Connection (Recommended)
+
+```bash
+claude mcp add --transport http \
+  --header "Authorization: Bearer YOUR_USER_KEY" \
+  --scope user \
+  bindly https://mcp.bind.ly
+```
+
+1. Create a User Key at [bindly.app/account/user-keys](https://bindly.app/account/user-keys)
+2. Copy the `claude mcp add` command shown after key creation (key is pre-filled)
+3. Paste in your terminal — done!
+
+### Option B: Plugin Install
+
 ### 1. Add the Marketplace
 
 ```bash
